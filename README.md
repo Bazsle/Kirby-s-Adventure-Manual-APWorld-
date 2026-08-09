@@ -1,4 +1,4 @@
-# Kirby-s-Adventure-Manual-APWorld-
+# Kirby's Adventure Manual APWorld
 This is an APWorld for Kirby's Adventure on the NES meant to be used with the Archipelago Manual client.
 
 Kirby's Adventure is a 2D platformer made by HAL Laboratory and published on the NES in 1993. You assume the role of the titular Kirby, who must reclaim the pieces of the Star Rod from King Dedede and his cronies and return tranquility and slumber to the world of Dream Land. While travelling across the 7 levels, Kirby can inhale his foes and get over 20 copy abilities that he can use as his own!
