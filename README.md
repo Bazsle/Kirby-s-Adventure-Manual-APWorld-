@@ -5,13 +5,21 @@ Kirby's Adventure is a 2D platformer made by HAL Laboratory and published on the
 
 Checks:
 Stage Clears (39 checks)
+
 Big Switches (17 checks)
+
 Bosses Defeated (8 checks + 1 GOAL check for the final boss)
+
 Star Rod Piece Pick Ups (7 checks)
+
 Sword (the one in Meta Knight's boss room, 1 check)
+
 Copy Abilities (24 checks)
+
 Arenas (5 checks)
+
 Invincible Candy (5 checks)
+
 1-Ups (43 checks)
 
 Items:
