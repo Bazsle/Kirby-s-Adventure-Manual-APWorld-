@@ -32,22 +32,24 @@ Progressive Level (7): This unlocks a new world (called a level in-game). For ex
 
 Maxim Tomato and Pep Drink are the filler items. 
 
-To use this file, install the most recent version of the Archipelago launcher and the Archipelago Manual client.
+1. To use this file, install the most recent version of the Archipelago launcher and the Archipelago Manual client.
 
-After the AP launcher is installed, open it and install this apworld (or double-click the apworld file).
+2. After the AP launcher is installed, open it and install this apworld (or double-click the apworld file).
 
-Close and re-open the launcher and select Generate Template Options to create a .yaml file.
+3. Close and re-open the AP launcher and select Generate Template Options to create a .yaml file for this game in the Templates directory. (note this will overwrite any customized .yaml files in that folder and generate for core-verified worlds and installed custom worlds)
 
-As of now, the only thing you should change in the .yaml file is the player name (slot name). There are currently no yaml settings for this game.
+4. As of now, the only thing you should change in the .yaml file is the player name (slot name). There are currently no other settings for this game.
 
-If you are hosting the game yourself, move the .yaml into the Players directory in your Archipelago installation folder. (Send the .apworld file and the .yaml file to the host who will generate the multiworld game if you are not hosting the game yourself)
+5. Send the .apworld file and the .yaml file to the host who will generate the multiworld game if you are not hosting the game yourself.
 
-Click on the ArchipelagoGenerate.exe in your AP installation or select Generate in the AP Launcher to create the multiworld.
+6. If you are hosting the game yourself, move the .yaml into the Players directory (in addition to the other players' .yaml files) in your Archipelago installation folder.
 
-Once the output ZIP file is generated, go to archipelago.gg and select Host Game and upload the output ZIP file there.
+7. Click on the ArchipelagoGenerate.exe in your AP installation or select Generate in the AP Launcher to create the multiworld.
 
-Download a spoiler log if you want and click Create Room to get the room opened and visibility to the port number for your game.
+8. Once the output ZIP file is generated, go to archipelago.gg and select Host Game and upload the output ZIP file there.
 
-You do not need to download the patch file associated with your slot to play this game.
+9. Download a spoiler log if you want and click Create Room to get the room opened and visibility to the port number for your game.
 
-Open the AP manual client (I also recommend opening a text client to more easily follow along with sent items), enter the port number and our slot name and enjoy!
+Note that you do not need to download the patch file associated with your slot to play this game.
+
+10. Open the AP manual client (I also recommend opening a text client to more easily follow along with sent items), enter the port number and your slot name and enjoy!
